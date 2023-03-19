@@ -1,2 +1,2 @@
 # WebScraping
- Web Scraping Assignment
+ Grad program assigment to scrape data from a public web page.
